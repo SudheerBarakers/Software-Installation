@@ -4,4 +4,9 @@
 2. unzip tar file
     $ tar -xvf apache-tomcat-8.5.84.tar.gz
     
-3. 
+3. Goto Directory
+    $ cd apache-tomcat-8.5.84
+    $ cd bin
+    
+    Run 
+    $ ./startup.sh ............. To start tomcat server
